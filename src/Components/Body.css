@@ -1,0 +1,37 @@
+p {
+    margin: 25px 15px 5px 5px;
+    color: black;
+    font-size: 30px;
+}
+
+select {
+    margin: 25px 5px 5px 5px;
+    font-size: 35px;
+}
+
+.inlineDiv {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.Div {
+    position: absolute;
+    top: 0%;
+    text-align: center;
+    height: 300px;
+    width: 100%;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+input {
+    margin: 25px 25px 25px 25px;
+    color: black;
+    font-size: 45px;
+}
+
